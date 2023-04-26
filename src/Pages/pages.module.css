@@ -1,0 +1,15 @@
+.nav_link{
+    padding: 5px;
+    border: 1px solid rgb(102, 156, 237);
+    border-radius: 10px;
+    text-decoration: none;
+    background-color: rgb(102, 156, 237);
+    color: #fff;
+    transition: color 350ms cubic-bezier(0.4, 0, 0.2, 1);
+
+}
+
+.nav_link:hover{
+    color: black;
+    background-color: red;
+}
